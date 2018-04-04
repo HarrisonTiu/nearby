@@ -1,1 +1,3 @@
-# nearby
+## Nearby
+
+Welcome to Nearby!
